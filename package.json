@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://developerpawan.netlify.app/",
+  "homepage": "https://developerpawan093.netlify.app/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
